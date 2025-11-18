@@ -15,4 +15,10 @@ public class CreateOrgTest {
 		System.out.println("Execute modify Org Test");
 		
 	}
+	
+	public void createdepartmentOrgTest() {
+		System.out.println("Execute deparment Org Test");
+		
+	}
+	
 }
